@@ -16,7 +16,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 
 - **Simulador Interactivo del Ciclo de Energía Geotérmica**  
-  🖼️ [Demo] (https://github.com/Gabrielce992/geotermica-demo)
+  🖼️ [Demo](https://github.com/Gabrielce992/geotermica-demo)  (https://github.com/Gabrielce992/geotermica-demo)
   
   🔒 Código: *Privado — disponible bajo solicitud*  
 
@@ -29,7 +29,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
      
 
 - **Modelado 3D en AutoCAD (14 piezas técnicas)**  
-  🖼️ [Demo](https://github.com/youruser/autocad-piezas-demo)
+  🖼️ [Demo](https://github.com/Gabrielce992/autocad-piezas-demo)
   
   🔒 Código: *Privado — disponible bajo solicitud*   
 
@@ -37,18 +37,18 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 ## 🕹️ Videojuegos 2D & 3D
 - **Space Invaders 2D (C++ & Miniwin)**  
-  🖼️ [Demo](https://github.com/youruser/space-invaders-2d-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/space-invaders-2d-demo)  
   ✅ *DISPONIBLE para interactuar*
   
   🔒 Código: *Privado — disponible bajo solicitud*  
 - **Space Invaders 3D (Unity)**  
-  🖼️ [Demo](https://github.com/youruser/space-invaders-3d-demo) 
+  🖼️ [Demo](https://github.com/Gabrielce992/space-invaders-3d-demo) 
   ✅ *DISPONIBLE para interactuar*
   
   🔒 Código: *Privado — disponible bajo solicitud*  
   
 - **Invasión Espacial 3D (Unity + IA)**  
-  🖼️ [Demo](https://github.com/youruser/invasion-espacial-demo)
+  🖼️ [Demo](https://github.com/Gabrielce992/invasion-espacial-demo)
   ✅ *DISPONIBLE para interactuar*
     
   🔒 Código: *Privado — disponible bajo solicitud*  
@@ -58,7 +58,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 ## ⚡ Arduino & Hardware
 - **Sistema Automatizado de Lavado de Autos (Arduino)**  
   🏆 1er puesto en *Tecweek 2022-I (Arquitectura de Computadoras)*  
-  🖼️ [Demo](https://github.com/youruser/lavado-autos-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/lavado-autos-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*  
   
 ---
@@ -66,33 +66,33 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 ## 🌐 Aplicaciones Web
 - **Plataforma Web para Galerías de Arte (Wuayta)**  
   Stack: Java 17 · Spring Boot · React · PostgreSQL · Stripe API  
-  🖼️ [Demo](https://github.com/youruser/wuayta-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/wuayta-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*   
   
 ---
 
 ## 🖥️ Scripts y Automatización
-- **Diag Collector — Diagnóstico Automatizado (Windows BAT)**  
-  🖼️ [Demo](https://github.com/youruser/diag-collector-demo)  
+- **Diag Collector – Diagnóstico Total/Soporte Técnico (Windows 10) Script ejecutable en Batch (.BAT)**  
+  🖼️ [Demo](https://github.com/Gabrielce992/diag-collector-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*  
 - **Scripts Gestión de Citas Médicas en Tiempo Real entre Médicos y Clientes**  
   Stack: PHP · MySQL · JavaScript  
-  🖼️ [Demo](https://github.com/youruser/citas-medicas-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/citas-medicas-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*  
 
 ---
 
-## 🤖 Deep Learning & AI
+## 🤖 Deep Learning & Software
 - **NexusDownloader AI (Python)**  
-  🖼️ [Demo](https://github.com/youruser/nexusdownloader-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/nexusdownloader-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*  
 
 - **Playlist Harvester AI (Python)**  
-  🖼️ [Demo](https://github.com/youruser/playlist-harvester-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/playlist-harvester-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*  
 
-- **MAREA — Multimodal Adaptive Real-time Emotion Analyzer**  
-  🖼️ [Demo](https://github.com/youruser/marea-demo)  
+- **MAREA — Interfaz UI– Marco Multimodal para Aprendizaje Adaptativo en Tiempo Real**  
+  🖼️ [Demo](https://github.com/Gabrielce992/marea-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*  
 
 ---
