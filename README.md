@@ -41,7 +41,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   🖼️ [Demo](https://github.com/Gabrielce992/lavado-autos-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*  
   
-
+---
 ## 🕹️ Videojuegos 2D & 3D
 - **Space Invaders 2D (C++ & Miniwin)**  
   🖼️ [Demo](https://github.com/Gabrielce992/space-invaders-2d-demo)  
@@ -60,8 +60,6 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
     
   🔒 Código: *Privado — disponible bajo solicitud*  
   
----
-
 ---
 
 ## 🌐 Aplicaciones Web
