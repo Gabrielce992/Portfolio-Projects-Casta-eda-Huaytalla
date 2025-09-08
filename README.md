@@ -56,16 +56,15 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   🖼️ [Demo](https://github.com/youruser/wuayta-demo)  
   🔒 Código: *Privado*  
 
-- **Sistema de Gestión de Citas Médicas Online**  
-  Stack: PHP · MySQL · JavaScript · MercadoPago  
-  🖼️ [Demo](https://github.com/youruser/citas-medicas-demo)  
-  🔒 Código: *Privado*  
-
 ---
 
 ## 🖥️ Scripts y Automatización
 - **Diag Collector — Diagnóstico Automatizado (Windows BAT)**  
   🖼️ [Demo](https://github.com/youruser/diag-collector-demo)  
+  🔒 Código: *Privado*  
+- **Scripts Gestión de Citas Médicas Online**  
+  Stack: PHP · MySQL · JavaScript  
+  🖼️ [Demo](https://github.com/youruser/citas-medicas-demo)  
   🔒 Código: *Privado*  
 
 ---
