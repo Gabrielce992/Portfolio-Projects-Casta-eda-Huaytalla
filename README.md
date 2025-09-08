@@ -14,7 +14,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   🔒 Código: *Privado — disponible bajo solicitud*  
 
 - **Simulador 3D de Tren Electromagnético (VRChat)**  
-  🖼️ [Demo] (https://github.com/youruser/sim-tren-demo)
+  🖼️ [Demo] [https://github.com/youruser/sim-tren-demo]
    🔒 Código: *Privado — disponible bajo solicitud*   
    ✅ **DISPONIBLE para interactuar**    
 
