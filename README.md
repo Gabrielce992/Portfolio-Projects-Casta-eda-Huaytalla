@@ -15,7 +15,8 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 - **Simulador 3D de Tren Electromagnético (VRChat)**  
   🖼️ [Demo] (https://github.com/Gabrielce992/sim-tren-demo)
-  ✅ *DISPONIBLE para interactuar* 
+  ✅ *DISPONIBLE para interactuar*
+  
   🔒 Código: *Privado — disponible bajo solicitud*   
      
 
@@ -34,16 +35,21 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 ## 🕹️ Videojuegos 2D & 3D
 - **Space Invaders 2D (C++ & Miniwin)**  
   🖼️ [Demo](https://github.com/youruser/space-invaders-2d-demo)  
+  ✅ *DISPONIBLE para interactuar*
+  
   🔒 Código: *Privado — disponible bajo solicitud*  
-  ✅ **DISPONIBLE para interactuar**  
 - **Space Invaders 3D (Unity)**  
-  🖼️ [Demo](https://github.com/youruser/space-invaders-3d-demo)  
+  🖼️ [Demo](https://github.com/youruser/space-invaders-3d-demo) 
+  ✅ *DISPONIBLE para interactuar*
+  
   🔒 Código: *Privado — disponible bajo solicitud*  
-  ✅ **DISPONIBLE para interactuar** 
+  
 - **Invasión Espacial 3D (Unity + IA)**  
-  🖼️ [Demo](https://github.com/youruser/invasion-espacial-demo)  
+  🖼️ [Demo](https://github.com/youruser/invasion-espacial-demo)
+  ✅ *DISPONIBLE para interactuar*
+    
   🔒 Código: *Privado — disponible bajo solicitud*  
-  ✅ **DISPONIBLE para interactuar** 
+  
 ---
 
 ## ⚡ Arduino & Hardware
