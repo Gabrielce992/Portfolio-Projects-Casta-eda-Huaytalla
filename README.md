@@ -8,7 +8,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 ---
 
-## 🎮 Unity & Blender
+## 🎮 Unity & Blender-AutoCAD
 - **Avatar 3D Personalizado**  
   🖼️ [Demo](https://github.com/Gabrielce992/avatar-3d-demo) (https://github.com/Gabrielce992/avatar-3d-demo)
   
