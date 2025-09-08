@@ -62,7 +62,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 - **Diag Collector — Diagnóstico Automatizado (Windows BAT)**  
   🖼️ [Demo](https://github.com/youruser/diag-collector-demo)  
   🔒 Código: *Privado*  
-- **Scripts Gestión de Citas Médicas Online**  
+- **Scripts Gestión de Citas Médicas en Tiempo Real entre Médicos y Clientes**  
   Stack: PHP · MySQL · JavaScript  
   🖼️ [Demo](https://github.com/youruser/citas-medicas-demo)  
   🔒 Código: *Privado*  
