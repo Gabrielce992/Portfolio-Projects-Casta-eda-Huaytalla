@@ -15,9 +15,9 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 - **Simulador 3D de Tren Electromagnético (VRChat)**  
   🖼️ [Demo] (https://github.com/Gabrielce992/sim-tren-demo)
-  
-   🔒 Código: *Privado — disponible bajo solicitud*   
-   ✅ **DISPONIBLE para interactuar**    
+  ✅ *DISPONIBLE para interactuar* 
+  🔒 Código: *Privado — disponible bajo solicitud*   
+     
 
 - **Simulador Interactivo del Ciclo de Energía Geotérmica**  
   🖼️ [Demo] (https://github.com/Gabrielce992/geotermica-demo)
