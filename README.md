@@ -10,7 +10,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 ## 🎮 Unity & Blender
 - **Avatar 3D Personalizado**  
-  🖼️ [Demo](https://github.com/Gabrielce992/avatar-3d-demo)  
+  🖼️ [Demo] (https://github.com/Gabrielce992/avatar-3d-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*  
 
 - **Simulador 3D de Tren Electromagnético (VRChat)**  
@@ -19,10 +19,12 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 - **Simulador Interactivo del Ciclo de Energía Geotérmica**  
   🖼️ [Demo] (https://github.com/Gabrielce992/geotermica-demo)
+  
   🔒 Código: *Privado*  
 
 - **Modelado 3D en AutoCAD (14 piezas técnicas)**  
-  🖼️ [Demo](https://github.com/youruser/autocad-piezas-demo)  
+  🖼️ [Demo](https://github.com/youruser/autocad-piezas-demo)
+  
   🔒 Código: *Privado*  
 
 ---
