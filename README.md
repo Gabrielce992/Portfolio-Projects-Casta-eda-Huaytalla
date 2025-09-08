@@ -18,7 +18,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   🔒 Código: *Privado*  
 
 - **Simulador Interactivo del Ciclo de Energía Geotérmica**  
-  🖼️ [Demo](https://github.com/youruser/geotermica-demo)  
+  🖼️ [Demo] (https://github.com/Gabrielce992/geotermica-demo)
   🔒 Código: *Privado*  
 
 - **Modelado 3D en AutoCAD (14 piezas técnicas)**  
