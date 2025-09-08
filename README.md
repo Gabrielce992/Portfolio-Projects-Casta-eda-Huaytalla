@@ -10,7 +10,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 ## 🎮 Unity & Blender
 - **Avatar 3D Personalizado**  
-  🖼️ [Demo] (https://github.com/Gabrielce992/avatar-3d-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/avatar-3d-demo) (https://github.com/Gabrielce992/avatar-3d-demo) 
   🔒 Código: *Privado — disponible bajo solicitud*  
 
 - **Simulador 3D de Tren Electromagnético (VRChat)**  
