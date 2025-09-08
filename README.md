@@ -14,17 +14,19 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   
   🔒 Código: *Privado — disponible bajo solicitud*  
 
+
+- **Simulador Interactivo del Ciclo de Energía Geotérmica**  
+  🖼️ [Demo] (https://github.com/Gabrielce992/geotermica-demo)
+  
+  🔒 Código: *Privado — disponible bajo solicitud*  
+
+
 - **Simulador 3D de Tren Electromagnético (VRChat)**  
   🖼️ [Demo](https://github.com/Gabrielce992/sim-tren-demo)  (https://github.com/Gabrielce992/sim-tren-demo)
   ✅ *DISPONIBLE para interactuar*
   
   🔒 Código: *Privado — disponible bajo solicitud*   
      
-
-- **Simulador Interactivo del Ciclo de Energía Geotérmica**  
-  🖼️ [Demo] (https://github.com/Gabrielce992/geotermica-demo)
-  
-  🔒 Código: *Privado — disponible bajo solicitud*  
 
 - **Modelado 3D en AutoCAD (14 piezas técnicas)**  
   🖼️ [Demo](https://github.com/youruser/autocad-piezas-demo)
