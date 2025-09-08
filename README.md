@@ -31,7 +31,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 - **Modelado 3D en AutoCAD (14 piezas técnicas)**  
   🖼️ [Demo](https://github.com/Gabrielce992/autocad-piezas-demo)
   
-  🔒 Código: *Privado — disponible bajo solicitud*   
+  🔒 Código / Archivos *Privado — disponible bajo solicitud*   
 
 ---
 
