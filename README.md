@@ -14,8 +14,9 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   🔒 Código: *Privado — disponible bajo solicitud*  
 
 - **Simulador 3D de Tren Electromagnético (VRChat)**  
-  🖼️ [Demo](https://github.com/youruser/sim-tren-demo)  
-  🔒 Código: *Privado*  
+  🖼️ [Demo] (https://github.com/youruser/sim-tren-demo)
+   🔒 Código: *Privado*   
+   ✅ **DISPONIBLE para interactuar   
 
 - **Simulador Interactivo del Ciclo de Energía Geotérmica**  
   🖼️ [Demo] (https://github.com/Gabrielce992/geotermica-demo)
@@ -33,15 +34,15 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 - **Space Invaders 2D (C++ & Miniwin)**  
   🖼️ [Demo](https://github.com/youruser/space-invaders-2d-demo)  
   🔒 Código: *Privado*  
-
+  ✅ **DISPONIBLE para interactuar 
 - **Space Invaders 3D (Unity)**  
   🖼️ [Demo](https://github.com/youruser/space-invaders-3d-demo)  
   🔒 Código: *Privado*  
-
+  ✅ **DISPONIBLE para interactuar
 - **Invasión Espacial 3D (Unity + IA)**  
   🖼️ [Demo](https://github.com/youruser/invasion-espacial-demo)  
   🔒 Código: *Privado*  
-
+  ✅ **DISPONIBLE para interactuar
 ---
 
 ## ⚡ Arduino & Hardware
@@ -49,7 +50,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   🏆 1er puesto en *Tecweek 2022-I (Arquitectura de Computadoras)*  
   🖼️ [Demo](https://github.com/youruser/lavado-autos-demo)  
   🔒 Código: *Privado*  
-
+  
 ---
 
 ## 🌐 Aplicaciones Web
@@ -57,7 +58,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   Stack: Java 17 · Spring Boot · React · PostgreSQL · Stripe API  
   🖼️ [Demo](https://github.com/youruser/wuayta-demo)  
   🔒 Código: *Privado*  
-
+  
 ---
 
 ## 🖥️ Scripts y Automatización
