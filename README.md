@@ -38,13 +38,14 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 ## ⚡ Arduino & Hardware
 - **Sistema Automatizado de Lavado de Autos (Arduino)**  
   🏆 1er puesto en *Tecweek 2022-I (Arquitectura de Computadoras)*  
-  🖼️ [Demo](https://github.com/Gabrielce992/lavado-autos-demo)  (https://github.com/Gabrielce992/lavado-autos-demo) 
+  🖼️ [Demo](https://github.com/Gabrielce992/lavado-autos-demo)  (https://github.com/Gabrielce992/lavado-autos-demo)
+   
   🔒 Código: *Privado — disponible bajo solicitud*  
   
 ---
 ## 🕹️ Videojuegos 2D & 3D
 - **Space Invaders 2D (C++ & Miniwin)**  
-  🖼️ [Demo](https://github.com/Gabrielce992/space-invaders-2d-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/space-invaders-2d-demo)  (https://github.com/Gabrielce992/space-invaders-2d-demo)  
   ✅ *DISPONIBLE para interactuar*
   
   🔒 Código: *Privado — disponible bajo solicitud*  
