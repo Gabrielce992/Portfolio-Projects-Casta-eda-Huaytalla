@@ -66,7 +66,8 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 ## 🌐 Aplicaciones Web
 - **Plataforma Web para Galerías de Arte (Wuayta)**  
   Stack: Java 17 · Spring Boot · React · PostgreSQL · Stripe API  
-  🖼️ [Demo](https://github.com/Gabrielce992/wuayta-demo)   (https://github.com/Gabrielce992/wuayta-demo) 
+  🖼️ [Demo](https://github.com/Gabrielce992/wuayta-demo)   (https://github.com/Gabrielce992/wuayta-demo)
+  
   🔒 Código: *Privado — disponible bajo solicitud*   
   
 ---
