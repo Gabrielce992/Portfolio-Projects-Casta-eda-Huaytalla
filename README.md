@@ -74,8 +74,9 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 ## 🖥️ Scripts y Automatización#
 🛠️ **Diag Collector – Herramienta de Diagnóstico Total y Soporte preventivo TI (Windows 10)**
+
 **Tipo de archivo:** Script ejecutable en **Batch (.BAT)**
-  🖼️ [Demo](https://github.com/Gabrielce992/diag-collector-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/diag-collector-demo)   (https://github.com/Gabrielce992/diag-collector-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*  
 - **Scripts Gestión de Citas Médicas en Tiempo Real entre Médicos y Clientes**  
   Stack: PHP · MySQL · JavaScript  
