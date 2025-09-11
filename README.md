@@ -79,9 +79,10 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   
   🔒 **Código:** Privado — disponible bajo solicitud  
 
-- 📅 ***Script Gestión de Citas Médicas en Tiempo Real (Médicos ↔ Clientes)**  
-  **Stack:** PHP · MySQL · JavaScript  
-  🖼️ [Demo](https://github.com/Gabrielce992/citas-medicas-demo)  
+- 📅 **Script Gestión de Citas Médicas en Tiempo Real (Médicos ↔ Clientes)**  
+  **Tipo de archivo:** Script ejecutable en **Batch (.BAT)**  
+  🖼️ [Demo](https://github.com/Gabrielce992/citas-medicas-demo) (https://github.com/Gabrielce992/citas-medicas-demo)
+   
   🔒 **Código:** Privado — disponible bajo solicitud  
 
 
