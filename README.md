@@ -75,7 +75,8 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 - 🛠️ **Diag Collector – Herramienta de Diagnóstico Total y Soporte Preventivo TI (Windows 10)**  
   **Tipo de archivo:** Script ejecutable en **Batch (.BAT)**  
-  🖼️ [Demo](https://github.com/Gabrielce992/diag-collector-demo)   (https://github.com/Gabrielce992/diag-collector-demo) 
+  🖼️ [Demo](https://github.com/Gabrielce992/diag-collector-demo)   (https://github.com/Gabrielce992/diag-collector-demo)
+  
   🔒 **Código:** Privado — disponible bajo solicitud  
 
 - 📅 **Gestión de Citas Médicas en Tiempo Real (Médicos ↔ Clientes)**  
