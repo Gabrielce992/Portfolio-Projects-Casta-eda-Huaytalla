@@ -91,21 +91,21 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 
 
 ## 🤖 Deep Learning & Software
-- **NexusDownloader AI (Python)**  
-  🖼️ [Demo](https://github.com/Gabrielce992/nexusdownloader-demo)  
+- **🎬 NexusDownloader AI — Sistema Inteligente de Descarga y Análisis Multimedia**  
+  🖼️ [Demo](https://github.com/Gabrielce992/nexusdownloader-demo)  (https://github.com/Gabrielce992/nexusdownloader-demo)  
   🔒 Código: *Privado — disponible bajo solicitud*  
 
 - **Playlist Harvester AI (Python)**  
-  🖼️ [Demo](https://github.com/Gabrielce992/playlist-harvester-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/playlist-harvester-demo) (https://github.com/Gabrielce992/playlist-harvester-demo)
   🔒 Código: *Privado — disponible bajo solicitud*  
 
 - **MAREA — Interfaz UI– Marco Multimodal para Aprendizaje Adaptativo en Tiempo Real**  
-  🖼️ [Demo](https://github.com/Gabrielce992/marea-demo)  
+  🖼️ [Demo](https://github.com/Gabrielce992/marea-demo)  (https://github.com/Gabrielce992/marea-demo) 
   🔒 Código: *Privado — disponible bajo solicitud*  
 
 ---
 
 ## 📬 Contacto
-📧 tu.email@ejemplo.com  
+📧 gabrielce992@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
 📄 CV actualizado disponible bajo solicitud
