@@ -44,7 +44,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   🔒 Código: *Privado — disponible bajo solicitud*  
   
 ---
-## 🕹️ Videojuegos 2D & 3D
+## 🕹️ Videojuegos 2D & 3D + Experimentos Interactivos
 - **Space Invaders 2D (C++ & Miniwin)**  
   🖼️ [Demo](https://github.com/Gabrielce992/space-invaders-2d-demo)  (https://github.com/Gabrielce992/space-invaders-2d-demo)
   
@@ -58,7 +58,8 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   
   🔒 Código: *Privado — disponible bajo solicitud*  
   
-- **Invasión Espacial 3D (Unity + IA)**  
+* **👾 Memeverse Collapse — FPS de Oleadas Virales y Código Corrupto**
+  **Tipo de archivo:** Unity · C# · Assets personalizados · Sistema de partículas VFX
   🖼️ [Demo](https://github.com/Gabrielce992/invasion-espacial-demo) (https://github.com/Gabrielce992/invasion-espacial-demo)
   
   ✅ *Disponible para interactuar en el ejecutable (.exe)*
