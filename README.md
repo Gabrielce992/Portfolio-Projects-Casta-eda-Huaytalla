@@ -58,9 +58,9 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   
   🔒 Código: *Privado — disponible bajo solicitud*  
   
-* **👾 Memeverse Collapse — FPS de Oleadas Virales y Código Corrupto**
-* 
-  **Tipo de archivo:** Unity · C# · Assets personalizados · Sistema de partículas VFX
+* **👾 Memeverse Collapse — FPS de Oleadas con IA**
+ 
+  **Tipo de archivo:** Unity3D · C# · Assets personalizados · Sistema de partículas VFX
   
   🖼️ [Demo](https://github.com/Gabrielce992/invasion-espacial-demo) (https://github.com/Gabrielce992/invasion-espacial-demo)
   
@@ -99,7 +99,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
   
   🔒 Código: *Privado — disponible bajo solicitud*  
 
-- **🎶 Playlist Harvester AI — Gestión Integral - Analisis y Descarga Masiva de Playlists)**  
+- **🎶 Playlist Harvester AI — Gestión Integral - Analisis y Descarga Masiva de Playlists**  
   🖼️ [Demo](https://github.com/Gabrielce992/playlist-harvester-demo) (https://github.com/Gabrielce992/playlist-harvester-demo)
   
   🔒 Código: *Privado — disponible bajo solicitud*  
