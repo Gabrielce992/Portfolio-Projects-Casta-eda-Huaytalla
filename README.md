@@ -46,6 +46,7 @@ Cada proyecto tiene su **demo público (README con gifs, imágenes y videos)** y
 ---
 ## 🕹️ Videojuegos 2D & 3D + Experimentos Interactivos
 - **Space Invaders 2D (C++ & Miniwin)**
+  
   🖼️ [Demo](https://github.com/Gabrielce992/space-invaders-2d-demo)  (https://github.com/Gabrielce992/space-invaders-2d-demo)
   
   ✅ *Disponible para interactuar en el ejecutable (.exe)*
